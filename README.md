@@ -69,4 +69,6 @@ npm run dev
 
 ### Designed and developed with ❤️ using modern frontend tools.
 
+- **Contributor** - JUNAID SHARIFF
 
+- Under the guidance of 
