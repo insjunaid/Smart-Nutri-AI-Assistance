@@ -61,10 +61,12 @@ npm run dev
 
 - **npm run build**: Builds the app for production.
 
- ## Acknowledgements
+ ## 🙏 Acknowledgements
 - Built with Vite for fast development and builds and thanks to bolt.ai.
 
 - Styled with Tailwind CSS for rapid UI development.
 
+
+- Designed and developed with ❤️ using modern frontend tools.
 
 
