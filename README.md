@@ -6,7 +6,7 @@
 
 ## Overview
 
-**AI Nutrition Assistant** is a web application built with **React**, **TypeScript**, and **Tailwind CSS**, designed to help users track and analyze their nutrition intake. The application leverages modern web technologies to provide a responsive and user-friendly interface, with features such as dynamic routing, animations, and file uploads for nutritional data.
+**AI Nutrition Assistant** is a web application built with **React**, **TypeScript**, and **Tailwind CSS**, designed to help users track and analyze their nutrition intake. The application leverages modern web technologies to provide a responsive and user-friendly interface ,with features such as dynamic routing, animations, and file uploads for nutritional data and use of gemeni ai as the llm
 
 ---
 
