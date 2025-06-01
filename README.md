@@ -69,6 +69,7 @@ npm run dev
 
 ### Designed and developed with ❤️ using modern frontend tools.
 
-- **Contributor** - JUNAID SHARIFF
-
-- Under the guidance of 
+### Contributor  
+- 🛠️ Junaid Shariff 🚀
+  
+- Under guidance of  [Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu)
