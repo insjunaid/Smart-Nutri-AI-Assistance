@@ -67,6 +67,6 @@ npm run dev
 - Styled with Tailwind CSS for rapid UI development.
 
 
-- Designed and developed with ❤️ using modern frontend tools.
+### Designed and developed with ❤️ using modern frontend tools.
 
 
