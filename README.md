@@ -72,4 +72,3 @@ npm run dev
 ### Contributor  
 - 🛠️ Junaid Shariff 🚀
   
-- Under guidance of  [Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu)
